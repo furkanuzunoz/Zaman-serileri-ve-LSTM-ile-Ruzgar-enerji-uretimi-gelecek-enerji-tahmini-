@@ -1,0 +1,1 @@
+# Zaman-serileri-ve-LSTM-ile-Ruzgar-enerji-uretimi-gelecek-enerji-tahmini-
